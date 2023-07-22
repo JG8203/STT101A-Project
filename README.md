@@ -21,8 +21,8 @@ Here is a comprehensive checklist of tasks to be accomplished in this project:
 - [x] Obtain a random sample of size n = 70.
 - [x] Create a new Excel file "Sample Data Set" with only the data from the 70 sampled households.
 - [ ] Apply the following using the "Sample Data Set", Excel and PHStat:
-  - [ ] Topic: Does location type affect poverty status? Statistical Test: Chi-Square Test
-  - [ ] Topic: Is there a correlation between monthly income and monthly expenditure? Statistical Test: Correlation and Regression Analysis
+  - [x] Topic: Does location type affect poverty status? Statistical Test: Chi-Square Test
+  - [ ] Topic: Is there a correlation between monthly income and monthly expenditure? Statistical Test: Correlation and Regression Analysis **CRASHES PHSTAT, TRY ON WINDOWS**
   - [ ] Topic: Is the proportion of agricultural households different in coastal areas compared to upland and metropolis? Statistical Test: Chi-Square Test for Equality of Proportions
   - [ ] Topic: Does the sex of the head of the household have an effect on the total number of members in the household? Statistical Test: Independent Samples t-test
   - [ ] Topic: Do households in different poverty classifications spend the same proportion of their income on food? Statistical Test: Chi-Square Test for Equality of Proportions
