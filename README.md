@@ -21,16 +21,16 @@ Here is a comprehensive checklist of tasks to be accomplished in this project:
 - [x] Obtain a random sample of size n = 70.
 - [x] Create a new Excel file "Sample Data Set" with only the data from the 70 sampled households.
 - [ ] Apply the following using the "Sample Data Set", Excel and PHStat:
-  - [ ] Interval Estimation of One Population Mean
-  - [ ] Interval Estimation of One Population Proportion
-  - [ ] Hypothesis Testing of One Population Mean (z-test or t-test)
-  - [ ] Hypothesis Testing of One Population Proportion (z-test)
-  - [ ] Hypothesis Testing for Two Population Means (Independent sample t-test)
-  - [ ] Hypothesis Testing for Two Population Proportions
-  - [ ] Analysis of Variance
-  - [ ] Chi-Square Test of Equality of Several Proportions
-  - [ ] Linear Correlation and Regression
-- [ ] Write interpretations for the intervals from interval estimation.
+  - [ ] Topic: Does location type affect poverty status? Statistical Test: Chi-Square Test
+  - [ ] Topic: Is there a correlation between monthly income and monthly expenditure? Statistical Test: Correlation and Regression Analysis
+  - [ ] Topic: Is the proportion of agricultural households different in coastal areas compared to upland and metropolis? Statistical Test: Chi-Square Test for Equality of Proportions
+  - [ ] Topic: Does the sex of the head of the household have an effect on the total number of members in the household? Statistical Test: Independent Samples t-test
+  - [ ] Topic: Do households in different poverty classifications spend the same proportion of their income on food? Statistical Test: Chi-Square Test for Equality of Proportions
+  - [ ] Topic: Are households in upland, metropolis, and coastal areas using different types of roof materials? Statistical Test: Chi-Square Test for Equality of Proportions
+  - [ ] Topic: Is the average age of the head of the household different for households with single, extended, and nonrelative members? Statistical Test: Analysis of Variance (ANOVA)
+  - [ ] Topic: Is the average monthly income of households with predominantly strong materials (for either roof or walls) different from those with light or salvaged materials? Statistical Test: Independent Samples t-test
+  - [ ] Topic: Is there a correlation between the age of the head of the household and the number of members aged less than 5 years old? Statistical Test: Correlation and Regression Analysis
+  - [ ] Topic: Is there a difference in monthly expenditure between poor, almost poor, and non-poor households? Statistical Test: Analysis of Variance (ANOVA)
 - [ ] Perform the 5-step test of hypothesis, formulate the group's hypotheses, and draw conclusions.
 - [ ] Create a PowerPoint/Slide presentation with the complete report following all previous instructions.
 
