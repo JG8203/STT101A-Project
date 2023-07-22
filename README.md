@@ -17,9 +17,9 @@ These instructions will guide you on how to carry out the project. It involves v
 
 Here is a comprehensive checklist of tasks to be accomplished in this project:
 
-- [ ] Use the STT101A Project Population Data Set with population size N = 538.
-- [ ] Obtain a random sample of size n = 70.
-- [ ] Create a new Excel file "Sample Data Set" with only the data from the 70 sampled households.
+- [x] Use the STT101A Project Population Data Set with population size N = 538.
+- [x] Obtain a random sample of size n = 70.
+- [x] Create a new Excel file "Sample Data Set" with only the data from the 70 sampled households.
 - [ ] Apply the following using the "Sample Data Set", Excel and PHStat:
   - [ ] Interval Estimation of One Population Mean
   - [ ] Interval Estimation of One Population Proportion
